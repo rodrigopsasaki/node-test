@@ -1,0 +1,5 @@
+common/node_modules
+common/npm-debug.log
+smtp/node_modules
+smtp/npm-debug.log
+
